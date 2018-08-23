@@ -1,4 +1,4 @@
-package org.hibernate.entityreleation;
+package entityreleation;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
