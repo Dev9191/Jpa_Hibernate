@@ -1,4 +1,4 @@
-package org.hibernate.file;
+package org.hibernate.entityreleation;
 
 import org.hibernate.Session;
 import org.hibernate.Transaction;

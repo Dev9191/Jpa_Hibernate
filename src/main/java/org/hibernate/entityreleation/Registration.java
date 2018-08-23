@@ -1,4 +1,4 @@
-package org.hibernate.file;
+package org.hibernate.entityreleation;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

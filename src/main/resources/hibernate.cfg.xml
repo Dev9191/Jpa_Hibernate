@@ -19,8 +19,8 @@
         <mapping class="org.hibernate.core.DemoApp"/>
         <mapping class="org.hibernate.core.Parent"/>
         <mapping class="org.hibernate.core.Child"/>
-        <mapping class="org.hibernate.file.Vehichle"/>
-        <mapping class="org.hibernate.file.Registration"/>
+        <mapping class="org.hibernate.entityreleation.Vehichle"/>
+        <mapping class="org.hibernate.entityreleation.Registration"/>
 
         <!--<mapping class="hibernate.entity.relationship.Address"/>-->
         <!--<mapping class="hibernate.entity.relationship.Credentials"/>-->
